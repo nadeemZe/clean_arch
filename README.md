@@ -2,15 +2,15 @@
 
 This is flutter clean architecture app.
 
-*flutter_bloc && flutter_riverpod : state management
+* flutter_bloc && flutter_riverpod : state management
 
-*get_it : dependency injection
+* get_it : dependency injection
 
-*dio : http client for dart
+* dio : http client for dart
 
-*fluro : flexible routing
+* fluro : flexible routing
 
-*freezed : code generation
+* freezed : code generation
 
 ## To see other projects developed by me :
 
